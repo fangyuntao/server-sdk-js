@@ -1,5 +1,11 @@
 # livekit-server-sdk
 
+## 2.4.0
+
+### Minor Changes
+
+- Accept new SIP metadata. - [#182](https://github.com/livekit/server-sdk-js/pull/182) ([@dennwc](https://github.com/dennwc))
+
 ## 2.3.0
 
 ### Minor Changes
